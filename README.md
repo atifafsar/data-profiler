@@ -10,7 +10,7 @@ Sometimes, you might be in a situation where you need to quickly analyze data an
 There can be several use cases as long as your data is in .csv format. One important example where this tool can be especially useful is in analyzing incident data, deployment data, and similar datasets to quickly extract key insights.
 
 ## Important Note
-Currently compatible with python 3.11.11
+Currently compatible with python 3.11.11, perhaps you can use 'conda' to build python 3.11 environment
 
 ## Installation
  Run the following command to install all the dependencies
