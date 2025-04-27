@@ -1,5 +1,5 @@
 # Data-profiler
-Generate your report from any .csv data with this tool
+Generate your report from any .csv data with this tool. You also have the option to create custom report by selecting "Custom Report" 
 
 ## Important Note
 
